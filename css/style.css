@@ -1,0 +1,47 @@
+html{
+        box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+ body
+ 
+        {
+ max-width:1000px;           
+margin: 0 auto;
+
+        }
+
+
+        header{
+            background-color:  blue;
+
+        }
+
+
+        nav
+        {
+            background-color:   magenta;
+         }
+        main
+         {
+            background-color:   yellow;
+          }
+
+          aside                     
+           {
+            background-color:    maroon;
+            }
+
+                footer{
+
+                    background-color:   green;
+                }
+
+
+            .container > *
+                        {
+                margin: 0;
+                padding: 20px;
+            
+            }

@@ -1,0 +1,51 @@
+@media screen and (min-width:600px) {
+
+    nav {
+        width:25%;
+        float: left;
+        
+    }
+
+main {
+    width:75%;
+    float:left;
+    }
+
+    aside {
+        clear:both;
+    }
+}
+@media screen and (min-width:800px) {
+
+    nav {
+        widows: 25%;
+        float: left;
+    }
+    
+    main {
+
+        width: 50%;
+
+    }
+
+    aside {
+        width: 25%;
+        clear:none;
+        float: left;
+    }
+    footer{
+
+        background-color:   green;
+    }
+    
+
+.container > *
+            {
+    margin: 0;
+    padding: 20px;
+
+}
+    
+    
+    
+    
